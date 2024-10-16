@@ -81,4 +81,4 @@ Open your web browser and go to:
 http://localhost:5000/
 ```
 
-If you see this, thanks for looking! Lol, I'm just trying expand my skills. If your a recruiter, I NEED AN INTERNSHIP! I  hope this says something about my eagerness to learn, even though this isn't the best.
+If you see this, thanks for looking! Lol, I'm just trying expand my skills. If your a recruiter, I  hope this says something about my eagerness to learn, even though this isn't the best.
