@@ -1,4 +1,5 @@
 Contact List App
+
 This Contact List App is a full-stack web application that allows users to manage their contacts. Built with React on the frontend and Flask with SQLAlchemy on the backend, it offers a seamless way to add, view, edit, and delete contacts.
 
 Features
